@@ -5323,6 +5323,12 @@
     githubId = 21362942;
     name = "Fugi";
   };
+  fumesover = {
+    name = "Albin Parou";
+    email = "nixpkgs@parou.eu";
+    github = "fumesover";
+    githubId = 24977217;
+  };
   fusion809 = {
     email = "brentonhorne77@gmail.com";
     github = "fusion809";
