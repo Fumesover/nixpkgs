@@ -5621,6 +5621,8 @@ with pkgs;
 
   restream = callPackage ../applications/misc/remarkable/restream { };
 
+  restish = callPackage ../applications/misc/restish { };
+
   ropgadget = with python3Packages; toPythonApplication ropgadget;
 
   scour = with python3Packages; toPythonApplication scour;
